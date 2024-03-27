@@ -1,0 +1,13 @@
+.welcome{
+    color: aquamarine;
+    text-align: center;
+    margin-top: 20%;
+}
+.bod{
+    background-image: url('https://media.istockphoto.com/id/1127743338/vector/handshake.jpg?s=612x612&w=0&k=20&c=hCBz5UWoEg6DkMrXkRnaoSAnFfawfsStkudLebB20Co=');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 20px;
+    height: 100rem
+}
